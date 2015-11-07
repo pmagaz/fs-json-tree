@@ -1,0 +1,13 @@
+{
+  "name": "FS-JSON-TREE",
+  "version": "1.0.0",
+  "description": "A node module to create hierarchies of directories and files with contents",
+  "author": {
+    "name": "Pablo Magaz",
+    "email": "magazpablo@gmail.com"
+  },
+  "dependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
