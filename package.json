@@ -2,7 +2,7 @@
   "name": "fs-json-tree",
   "version": "1.0.0",
   "license": "BSD-2-Clause",
-  "description": "A node module to create hierarchies of directories and files with contents",
+  "description": "A node module to create directories and files trees",
   "author": {
     "name": "Pablo Magaz",
     "email": "magazpablo@gmail.com"

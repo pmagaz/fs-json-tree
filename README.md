@@ -1,2 +1,2 @@
 # fs-json-tree
-A node module to create hierarchies of directories and files with contents.
+A node module to create directories and files trees.
