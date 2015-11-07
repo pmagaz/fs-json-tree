@@ -1,12 +1,25 @@
 {
-  "name": "FS-JSON-TREE",
+  "name": "fs-json-tree",
   "version": "1.0.0",
+  "license": "BSD-2-Clause",
   "description": "A node module to create hierarchies of directories and files with contents",
   "author": {
     "name": "Pablo Magaz",
     "email": "magazpablo@gmail.com"
   },
-  "dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pmagaz/fs-json-tree.git"
+  },
+  "keywords": [
+    "fs",
+    "json",
+    "tree",
+    "folder",
+    "file",
+    "content"
+  ],
+  "devDpendencies": {
     "chai": "^3.4.0",
     "mocha": "^2.3.3"
   }
